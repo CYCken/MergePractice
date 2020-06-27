@@ -33,7 +33,7 @@ $(document).ready(function(){
                 if(mapArray[x] == 1){
                     ctx.drawImage(imgMountain, 32, 65, 32, 32, x%3*200, Math.floor(x/3)*200, 200, 200)
                 }else if(mapArray[x] == 3){
-                    ctx.drawImage(imgEnemy, 7, 40, 104, 135, x%3*200, Math.floor(x/3)*200, 200, 200)
+                    ctx.drawImage(imgEnemy, 350, 40, 66, 135, x%3*200, Math.floor(x/3)*200, 200, 200)
                 }
             }
         }
