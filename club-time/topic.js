@@ -1,11 +1,11 @@
 let topicArray = [
-    "sleep",
-    "eat",
-    "no",
-    "play",
-    "take a break",
-    "no",
-    "travel",
+    "AI",
+    "Web",
+    "WireLess",
+    "Data Structure",
+    "Open Source",
+    "Java",
+    "CG",
 ]
 
 let startDate = new Date();
